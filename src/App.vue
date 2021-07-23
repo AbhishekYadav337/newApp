@@ -4,17 +4,17 @@
       <v-col>
         <div class="ad-container">
           <Adsense
-            data-ad-client="ca-pub-1234567891234567"
+            data-ad-client="ca-pub-9315120082985629"
             data-ad-slot="1234567890"
             data-ad-format="auto"
-            data-full-width-responsive="true"
+            :data-full-width-responsive="true"
           >
           </Adsense>
         </div>
         
       </v-col>
     </v-row>
-    <v-row>
+    <!-- <v-row>
       <v-col cols="3">
           <div style="height:100vh;background-color:rgb(140 124 124 / 13%)">
             <v-row style="padding-top:17px">
@@ -62,7 +62,7 @@
             </v-row>
           </div>
       </v-col>
-    </v-row>
+    </v-row> -->
   </div>
 </template>
 
