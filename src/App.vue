@@ -67,7 +67,7 @@
 </template>
 
 <script>
-import {ToggleButton} from 'vue-js-toggle-button';
+// import {ToggleButton} from 'vue-js-toggle-button';
 export default ({
   data: () => ({
     isShareOption: false,
@@ -75,7 +75,7 @@ export default ({
   }),
 
   components:{
-    ToggleButton
+    // ToggleButton
   },
 
   methods:{
