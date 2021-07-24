@@ -14,7 +14,7 @@
         
       </v-col>
     </v-row>
-    <!-- <v-row>
+    <v-row>
       <v-col cols="3">
           <div style="height:100vh;background-color:rgb(140 124 124 / 13%)">
             <v-row style="padding-top:17px">
@@ -62,7 +62,7 @@
             </v-row>
           </div>
       </v-col>
-    </v-row> -->
+    </v-row>
   </div>
 </template>
 
